@@ -9,8 +9,8 @@
 #define FRAME_TARGET_TIME (1000 / FPS)
 
 //Dimensions of the Window
-int WIDTH = 1280;
-int HEIGHT = 720;
+#define WIDTH 1280
+#define HEIGHT 720
 
 //Size of a Square
 #define SQUARE_SIZE 40
